@@ -1,0 +1,4 @@
+out/production/
+*.iml
+src/META-INF/
+.idea/
